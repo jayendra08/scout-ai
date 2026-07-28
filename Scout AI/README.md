@@ -1,46 +1,4 @@
-# Scout AI
 
-Scout AI is a lightweight full-stack resume analyzer built for portfolio use. It pairs a FastAPI backend with a simple HTML/CSS/JavaScript frontend to match resumes against job postings and surface relevant interview questions.
-
-## Project Overview
-
-The application uses preloaded CSV datasets, SentenceTransformers embeddings, and cosine similarity to recommend jobs for a selected resume index. It also returns skill gaps and interview questions so the user can review both fit and preparation needs in one place.
-
-## Features
-
-- Semantic job matching with SentenceTransformers.
-- Skill-gap analysis showing matched and missing skills.
-- Interview question suggestions with hidden answers and expand/collapse controls.
-- FastAPI endpoints with zero database or authentication setup.
-- Responsive dark UI built with vanilla HTML, CSS, and JavaScript.
-
-## Tech Stack
-
-- Backend: FastAPI, Uvicorn, Pandas, NumPy, SentenceTransformers, Scikit-learn, Pydantic.
-- Frontend: HTML, CSS, Vanilla JavaScript, Fetch API.
-
-## Folder Structure
-
-```
-Scout AI/
-├── app/
-│   ├── main.py
-│   ├── preprocessing.py
-│   ├── embeddings.py
-│   ├── recommender.py
-│   ├── interview.py
-│   └── utils.py
-├── data/
-│   ├── resume_data.csv
-│   ├── all_job_post.csv
-│   ├── job_title_des.csv
-│   └── Software Questions.csv
-├── frontend/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-├── requirements.txt
-└── README.md
 ```
 
 ## Installation
