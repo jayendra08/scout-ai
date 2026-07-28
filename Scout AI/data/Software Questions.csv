@@ -1,0 +1,8 @@
+Question,Answer,Category,Difficulty
+"What is dependency injection in FastAPI?","FastAPI provides a powerful Dependency Injection system that allows endpoints to share logic, database sessions, or security checks seamlessly using Depends().","FastAPI / Python","Medium"
+"Explain the difference between Python list and tuple.","Lists are mutable and defined with square brackets [], whereas tuples are immutable and defined with parentheses ().","Python","Easy"
+"How does Cosine Similarity work in vector search?","Cosine similarity measures the cosine of the angle between two multi-dimensional vectors, evaluating directional orientation rather than magnitude.","Machine Learning","Hard"
+"What is the Fetch API in JavaScript?","The Fetch API provides a modern JavaScript interface for making asynchronous HTTP requests to servers using promises.","JavaScript","Easy"
+"What are SentenceTransformers used for?","SentenceTransformers is a Python framework for state-of-the-art sentence, text, and image embeddings based on Transformer models.","Machine Learning","Medium"
+"What is the purpose of CORS in web development?","Cross-Origin Resource Sharing (CORS) is a security feature that allows or restricts requested resources on a web server depending on where the request originated.","Web Development","Medium"
+"Difference between SQL primary key and foreign key?","A primary key uniquely identifies each record in a table, while a foreign key links a record in one table to the primary key of another table.","Database","Easy"

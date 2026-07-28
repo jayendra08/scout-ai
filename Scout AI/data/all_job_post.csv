@@ -1,0 +1,7 @@
+job_title,job_description,job_skill_set,category
+"Python Backend Engineer","We are seeking a Python Backend Engineer to build high-performance APIs with FastAPI and manage SQL databases.","['python', 'fastapi', 'sql', 'postgresql', 'docker', 'git']","Software Engineering"
+"Machine Learning / AI Engineer","Looking for an AI engineer to develop recommendation engines and NLP models using PyTorch and SentenceTransformers.","['python', 'pytorch', 'sentence-transformers', 'scikit-learn', 'pandas', 'nlp']","Artificial Intelligence"
+"Full Stack Web Developer","Create end-to-end web applications with FastAPI backends and clean JavaScript/CSS interfaces.","['python', 'fastapi', 'javascript', 'html', 'css', 'sql', 'git']","Web Development"
+"Data Analyst / Scientist","Analyze complex datasets using Pandas, NumPy, and Scikit-learn to extract actionable insights.","['python', 'pandas', 'numpy', 'sql', 'tableau', 'scikit-learn']","Data Science"
+"Frontend Web Developer","Craft beautiful, accessible web interfaces using HTML, CSS, JavaScript, and modern web tech.","['javascript', 'html', 'css', 'react', 'typescript', 'responsive design']","Web Development"
+"DevOps & Cloud Specialist","Automate infrastructure, manage Kubernetes clusters, and run cloud operations on AWS.","['docker', 'kubernetes', 'aws', 'terraform', 'bash', 'ci/cd']","Infrastructure"

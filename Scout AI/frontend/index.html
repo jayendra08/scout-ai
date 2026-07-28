@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Scout AI</title>
+
+    <link rel="stylesheet" href="/frontend/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Scout AI</h1>
+    <p class="subtitle">AI Resume Intelligence Platform</p>
+
+    <div class="card">
+
+        <label for="resumeFile">Upload Resume (PDF)</label>
+
+<input
+    type="file"
+    id="resumeFile"
+    accept=".pdf"
+>
+
+        <button id="analyzeBtn">
+            Analyze Resume
+        </button>
+
+    </div>
+
+    <div id="loading"></div>
+
+    <div id="results"></div>
+
+</div>
+
+<script src="/frontend/script.js"></script>
+
+</body>
+
+</html>
