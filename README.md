@@ -209,6 +209,22 @@ Missing Skills:
 - Cloud Deployment
 ```
 
+# Screenshots :
+<img width="1920" height="1020" alt="Screenshot 2026-07-28 190824" src="https://github.com/user-attachments/assets/1d6e8bbf-4a15-479c-82fe-5d8abda7ea3a" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-28 191416" src="https://github.com/user-attachments/assets/303bf533-cfa8-4df6-a040-0ffd743a639d" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-28 191430" src="https://github.com/user-attachments/assets/1100e66a-f75a-400c-a957-743b7c2314fa" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-28 191442" src="https://github.com/user-attachments/assets/0d32b67f-debc-4ae5-aaa6-27711aa1f2a7" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-28 191453" src="https://github.com/user-attachments/assets/abf450ec-f108-44c8-a7cb-722827099cca" />
+
+
+I tested the application with a sample resume, and these were the outputs I got.
+
+
+
 ---
 
 # 🎯 Future Improvements
