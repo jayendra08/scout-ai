@@ -265,9 +265,13 @@ GitHub: [@jayendra08](https://github.com/jayendra08)
 
 ⭐ If you find this project interesting, consider giving it a star!
 
-MIT License
+---
 
-Copyright (c) 2026 Jayendra
+
+
+# MIT License
+
+## Copyright (c) 2026 Jayendra
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
